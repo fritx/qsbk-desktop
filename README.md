@@ -1,6 +1,6 @@
 # ［糗事百科］桌面客户端
 
-<img width="500" src="media/screenshot_0226.png">
+<img width="700" src="media/screenshot_0227.png">
 
 
 ## 桌面端功能
